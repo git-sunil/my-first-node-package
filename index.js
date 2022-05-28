@@ -1,3 +1,3 @@
-const afunction = requires('./firstU-tility.js');
+const afunction = require('./firstU-tility.js');
 
 module.exports = afunction;
